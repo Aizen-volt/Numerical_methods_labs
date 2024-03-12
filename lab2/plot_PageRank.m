@@ -1,0 +1,1 @@
+function plot_PageRank(r)    figure;    bar(r);    xlabel("Page no.");    ylabel("PageRank");    title("PageRanks vs. their numbers");    print -dpng zadanie7.png end
